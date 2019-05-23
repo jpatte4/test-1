@@ -2,10 +2,9 @@
     "molecules": [
         {
             "atomType": "Molecule",
-            "name": "test 1",
+            "name": "Molecule",
             "x": 0,
             "y": 0,
-            "uniqueID": 925543,
             "ioValues": [],
             "topLevel": true,
             "allAtoms": [
@@ -13,7 +12,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1486,
-                    "y": 190,
+                    "y": 186.5,
                     "ioValues": []
                 }
             ],
